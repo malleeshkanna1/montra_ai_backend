@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+PyJWT
+pwdlib[argon2]
+pymysql
+python-multipart
+pydantic-settings[dotenv]
+pydantic[email]
+pydantic-ai-slim[openai]
+pydantic-ai-slim[groq]
